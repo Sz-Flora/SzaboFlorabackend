@@ -124,3 +124,4 @@ C:\Users\szabof\source\repos\SzabóFlórabackend\obj\Debug\net8.0\refint\SzabóF
 C:\Users\szabof\source\repos\SzabóFlórabackend\obj\Debug\net8.0\SzabóFlórabackend.pdb
 C:\Users\szabof\source\repos\SzabóFlórabackend\obj\Debug\net8.0\SzabóFlórabackend.genruntimeconfig.cache
 C:\Users\szabof\source\repos\SzabóFlórabackend\obj\Debug\net8.0\ref\SzabóFlórabackend.dll
+C:\Users\szabof\source\repos\SzabóFlórabackend\obj\Debug\net8.0\SzabóFlórabackend.sourcelink.json

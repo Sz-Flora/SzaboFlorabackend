@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzabóFlórabackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63713dfbe0f3bdfde739d1158ace06eabf6152bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SzabóFlórabackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SzabóFlórabackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "Szab\u00F3Fl\u00F3rabackend.Controllers.AuthorsController",
+    "Method": "GetAuthorsCount",
+    "RelativePath": "api/Authors/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szab\u00F3Fl\u00F3rabackend.Controllers.AuthorsController",
+    "Method": "GetAuthorWithBooks",
+    "RelativePath": "api/Authors/feladat9/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szab\u00F3Fl\u00F3rabackend.Controllers.BooksController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Books/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szab\u00F3Fl\u00F3rabackend.Controllers.BooksController",
+    "Method": "AddBook",
+    "RelativePath": "api/Books/feladat13",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newBook",
+        "Type": "Szab\u00F3Fl\u00F3rabackend.Models.Dtos.BookDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szab\u00F3Fl\u00F3rabackend.Controllers.CategoriesController",
+    "Method": "GetAllCategoriesWithBooks",
+    "RelativePath": "api/Categories/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
