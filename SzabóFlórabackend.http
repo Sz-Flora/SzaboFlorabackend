@@ -1,0 +1,6 @@
+@SzabóFlórabackend_HostAddress = http://localhost:5150
+
+GET {{SzabóFlórabackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
